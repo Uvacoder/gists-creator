@@ -1,0 +1,112 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+.body {
+  padding: 20px;
+}
+
+.root {
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title {
+  text-align: center;
+}
+@media (max-width: 500px) {
+  .title {
+    font-size: 24px;
+  }
+}
+
+.token-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 10px;
+}
+@media (max-width: 500px) {
+  .token-delete,
+  .token-getnew {
+    display: none;
+  }
+}
+
+.token-form,
+.two-buttons {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 10px;
+}
+
+.token-input {
+  flex-grow: 1;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button {
+  width: 100px;
+  position: relative;
+  font-weight: 600;
+  height: 40px;
+  padding: 12px 20px;
+  outline: none;
+  border: 1px solid black;
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.button:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  top: 7px;
+  left: 7px;
+  height: 100%;
+  background-color: rgb(240, 177, 140);
+  z-index: -1;
+  transition: all 0.35s;
+  border-radius: inherit;
+}
+
+.button:hover:after {
+  top: 0px;
+  left: 0px;
+}
+
+.create {
+  width: 300px;
+}
+@media (max-width: 500px) {
+  .create {
+    width: 100%;
+  }
+}
+
+.input {
+  border: solid 1px;
+  font-family: "Courier New", Courier, monospace;
+  height: 36px;
+  border-radius: 5px;
+}
+
+.code {
+  height: 244px;
+  padding-top: 10px;
+}
+
+.input:active,
+.input:focus {
+  outline: none;
+  background-color: rgb(240, 177, 140);
+  transition: all 0.35s;
+}

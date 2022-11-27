@@ -1,0 +1,60 @@
+.body {
+  padding: 20px;
+}
+
+.token-container {
+  width: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+.form {
+  flex-direction: column;
+  display: flex;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  background-color: #0000;
+  border: 1px solid #000;
+  border-radius: 5px;
+  outline: none;
+  padding: 12px 20px;
+  font-weight: 600;
+  position: relative;
+}
+
+.button:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  border-radius: inherit;
+  background-color: #f0b18c;
+  transition: all .35s;
+  position: absolute;
+  top: 7px;
+  left: 7px;
+}
+
+.button:hover:after {
+  top: 0;
+  left: 0;
+}
+
+.create {
+  width: 300px;
+}
+
+input {
+  border: none;
+}
+
+input:active, input:focus {
+  background-color: #f0b18c;
+  outline: none;
+  transition: all .35s;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
