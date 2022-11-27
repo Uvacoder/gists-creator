@@ -2,8 +2,9 @@
   font-family: Courier New, Courier, monospace;
 }
 
-.body {
-  padding: 20px;
+body {
+  background-color: #fde0b5;
+  margin: 0;
 }
 
 .root {
@@ -96,6 +97,7 @@
 
 .input {
   height: 36px;
+  background-color: #fde0b5;
   border: 1px solid;
   border-radius: 5px;
   font-family: Courier New, Courier, monospace;

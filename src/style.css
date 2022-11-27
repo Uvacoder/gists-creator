@@ -1,8 +1,10 @@
 * {
   font-family: "Courier New", Courier, monospace;
 }
-.body {
-  padding: 20px;
+
+body {
+  margin: 0;
+  background-color: rgb(253, 224, 181);
 }
 
 .root {
@@ -97,6 +99,7 @@
   font-family: "Courier New", Courier, monospace;
   height: 36px;
   border-radius: 5px;
+  background-color: rgb(253, 224, 181);
 }
 
 .code {

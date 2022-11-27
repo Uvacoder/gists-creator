@@ -1,8 +1,21 @@
-5715
+5716
+69C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\package.json133139811662347202 0
+92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\create-ecdh\browser.js132882833760400000 0
+93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\browserslist\index.d.ts133139796077960000 0
+92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\object-inspect\example133139778818042090 1
+76C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@lezer133139796659196425 1
+87C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@msgpackr-extract133139796658727693 1
+82C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\import-fresh133139796779555737 1
+79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@mischnic133139796658727693 1
+102C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\nth-check\lib\esm\index.d.ts.map132978682797620000 0
+91C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\svgo\lib\css-tools.js132882833074150000 0
+105C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\regions\alt-an.js133139796172600000 0
+87C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\util\when.js133033093003050000 0
+67C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\.gitignore133139927947187000 0
 90C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\dependencies\v8133139797108839653 1
 94C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\svgo\lib\svgo\plugins.js132882833074150000 0
 95C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\public-encrypt\browser.js132882833761350000 0
-60C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src133139807378395217 1
+60C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src133139927855742339 1
 114C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\features\feature-policy.js133139796172600000 0
 79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\gopd\test133139809680213164 1
 89C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\css-tree\lib\common133139797066450310 1
@@ -15,7 +28,7 @@
 101C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\regions\MT.js133139796172600000 0
 87C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\boolbase\index.js132882833571620000 0
 81C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\randombytes133139808918102584 1
-61C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist133139926890263795 1
+61C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist133139935979460741 1
 79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\callsites133139796734533296 1
 92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\events\tests\common.js132882833698670000 0
 84C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\sha.js\hash.js132882833799230000 0
@@ -29,11 +42,6 @@
 94C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\abortcontroller-polyfill133139796732812372 1
 89C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\statuses\codes.json132963112330620000 0
 69C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules133139810890847109 1
-69C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\package.json133139811662347202 0
-92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\create-ecdh\browser.js132882833760400000 0
-93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\browserslist\index.d.ts133139796077960000 0
-92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\object-inspect\example133139778818042090 1
-76C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@lezer133139796659196425 1
 97C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\utils\src\config.js133139795909360000 0
 76C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\qs\lib133139778818842025 1
 93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\object-keys\.travis.yml132882833812460000 0
@@ -64,6 +72,12 @@
 98C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\readable-stream\lib\internal133139807688658358 1
 144C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133139796070940000 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\terser\lib\utils133139797115399014 1
+104C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\htmlnano\docs\docusaurus.config.js133139796104190000 0
+94C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\source-map\source-map.js132882833358610000 0
+71C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src\index.html133139934616429422 0
+101C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\regions\HR.js133139796172600000 0
+117C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133033093003050000 0
+89C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\type-fest\base.d.ts132882833368560000 0
 101C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\util\set-optional-deps.cjs133033093003050000 0
 80C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\color-name133139796734853251 1
 111C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\features\geolocation.js133139796172600000 0
@@ -80,15 +94,9 @@
 97C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\crypto-browserify\README.md132882833690010000 0
 125C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133139796104190000 0
 90C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\utils-merge\index.js132850407977280000 0
-104C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\htmlnano\docs\docusaurus.config.js133139796104190000 0
-94C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\source-map\source-map.js132882833358610000 0
-71C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src\index.html133139920464450705 0
-101C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\regions\HR.js133139796172600000 0
-117C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133033093003050000 0
-89C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\type-fest\base.d.ts132882833368560000 0
 95C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\is-callable\test\index.js133139809597620000 0
 106C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\is-generator-function\test\corejs.js132882833777080000 0
-70C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src\style.css133139926861456221 0
+70C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\src\style.css133139935970808244 0
 85C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\qs\CHANGELOG.md133139778783040000 0
 100C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\object-inspect\test\inspect.js133003137163700000 0
 115C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@swc\helpers\lib\_interop_require_wildcard.js133139796171150000 0
@@ -143,9 +151,6 @@
 104C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\codeframe\lib\codeframe.js133139796110910000 0
 116C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\features\css-focus-within.js133139796172600000 0
 84C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\dom-serializer133139796735653172 1
-87C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@msgpackr-extract133139796658727693 1
-82C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\import-fresh133139796779555737 1
-79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@mischnic133139796658727693 1
 82C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\hash.js\test133139808921736682 1
 91C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\for-each\package.json132972658135980000 0
 106C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\events\tests\remove-all-listeners.js132882833698670000 0
@@ -1422,7 +1427,7 @@
 103C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\send\node_modules\ms\package.json132850407984270000 0
 102C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@swc\helpers\lib\_ts_decorate.js133139796171150000 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\unpipe\README.md132850407999290000 0
-80C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.2cdaf7bc.css133139926880540200 0
+80C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.2cdaf7bc.css133139935977014707 0
 88C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\parse-asn1\asn1.js132882833791860000 0
 118C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\browserslist\node_modules\.bin\browserslist-lint133139810844379057 0
 90C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\type-is\package.json132850407977410000 0
@@ -1760,8 +1765,6 @@
 93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\ipaddr.js\ipaddr.min.js132850407988130000 0
 91C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\svgo\plugins\_path.js132882833074150000 0
 134C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133139810854742043 0
-102C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\nth-check\lib\esm\index.d.ts.map132978682797620000 0
-91C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\svgo\lib\css-tools.js132882833074150000 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\svgo\lib\path.js132882833074150000 0
 88C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\encodeurl\index.js132850407961800000 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\qs\test\parse.js133139778783040000 0
@@ -2797,8 +2800,6 @@
 117C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js133139796171150000 0
 83C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\write.js133033093003050000 0
 93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\asn1.js\lib\asn1\api.js132882833822370000 0
-105C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\regions\alt-an.js133139796172600000 0
-87C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\util\when.js133033093003050000 0
 94C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\src\compression.cpp133033093003050000 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\src\env.cpp133033093003050000 0
 119C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133033093003050000 0
@@ -3822,7 +3823,7 @@
 116C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\features\css-writing-mode.js133139796172600000 0
 92C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\README.md133139796172600000 0
 103C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\css-tree\lib\lexer\match-graph.js132882833323850000 0
-84C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.2cdaf7bc.css.map133139926884129383 0
+84C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.2cdaf7bc.css.map133139935979210959 0
 104C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\caniuse-lite\data\features\wasm.js133139796172600000 0
 97C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\css-tree\lib\lexer\match.js132882833323850000 0
 98C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\css-tree\lib\lexer\search.js132882833323850000 0
@@ -5383,7 +5384,7 @@
 112C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133139796162740000 0
 89C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\logger\test133139796853183136 1
 104C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\logger\test\Logger.test.js133139795908970000 0
-83C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.b71e74eb.js.map133139926882061232 0
+83C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.b71e74eb.js.map133139935979220918 0
 98C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\logger\src\Logger.js133139795908970000 0
 98C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\logger\lib\Logger.js133139795908970000 0
 93C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\@parcel\hash\browser.js133139796047930000 0
@@ -5712,5 +5713,5 @@
 81C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\.bin\terser133139810886405327 0
 85C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\node_modules\.bin\terser.cmd133139810886405327 0
 86C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\gists-editor.59712999.js133139805485098318 0
-79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.b71e74eb.js133139926878337233 0
-72C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.html133139926881841439 0
+79C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.b71e74eb.js133139935977424337 0
+72C:\Users\danie\Documents\APX-FULL\modulo-6b\gists-editor\dist\index.html133139935977024741 0
