@@ -1,14 +1,17 @@
 {
   "name": "gists-editor",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "parcel": "^2.8.0"
+    "@parcel/transformer-image": "^2.8.0",
+    "gh-pages": "^4.0.0"
   },
   "scripts": {
-    "dev": "parcel serve ./index.html"
+    "dev": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html --dist-dir build --public-url /gists-creator",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "parcel": "^2.8.0"
   }
 }
